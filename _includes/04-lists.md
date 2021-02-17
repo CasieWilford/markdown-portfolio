@@ -1,4 +1,4 @@
-[ ] Plants
-[ ] Sweets
-[ ] Video Games
-[ ] Art
+- Plants
+- Sweets
+- Video Games
+- Art
